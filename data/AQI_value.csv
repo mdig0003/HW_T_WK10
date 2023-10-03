@@ -1,0 +1,31 @@
+﻿Date,Country,Status,AQI Value
+20/04/2023,China,Hazardous,963
+15/08/2022,United Arab Emirates,Hazardous,868
+14/08/2022,United Arab Emirates,Hazardous,862
+16/08/2022,Iraq,Hazardous,590
+13/04/2023,China,Hazardous,560
+3/08/2023,Germany,Hazardous,500
+13/04/2023,Thailand,Very Unhealthy,300
+30/03/2023,Myanmar,Very Unhealthy,298
+22/07/2022,Iraq,Very Unhealthy,289
+2/08/2022,India,Very Unhealthy,287
+10/08/2023,Togo,Very Unhealthy,286
+1/09/2022,Nepal,Very Unhealthy,285
+31/07/2022,Iraq,Unhealthy,200
+11/08/2022,Bahrain,Unhealthy,200
+13/04/2023,Nepal,Unhealthy,200
+1/06/2023,Chile,Unhealthy,199
+21/07/2022,Uganda,Unhealthy,198
+5/08/2022,India,Unhealthy,198
+22/07/2022,Zambia,Moderate,100
+24/07/2022,Gabon,Moderate,100
+26/07/2022,Ghana,Moderate,100
+26/07/2022,Kuwait,Moderate,100
+29/07/2022,Togo,Moderate,100
+10/08/2022,United Arab Emirates,Moderate,100
+26/07/2022,Uganda,Unhealthy for Sensitive Groups,150
+6/08/2022,Uganda,Unhealthy for Sensitive Groups,150
+10/08/2022,India,Unhealthy for Sensitive Groups,150
+23/08/2022,Russia,Unhealthy for Sensitive Groups,150
+24/08/2022,Angola,Unhealthy for Sensitive Groups,150
+1/09/2022,Gabon,Unhealthy for Sensitive Groups,150

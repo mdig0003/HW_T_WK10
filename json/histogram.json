@@ -1,0 +1,14 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "data/data_date.csv"},
+    "title": "Histogram of Status in Air Quality Politation",
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "bin": false,
+        "field": "Status",
+        "type": "nominal"
+      },
+      "y": {"aggregate": "count","type": "quantitative"}
+    }
+  }
